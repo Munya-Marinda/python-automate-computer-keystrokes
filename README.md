@@ -1,6 +1,9 @@
 # Python Automate Computer Keystrokes
 This Python project automates the process of recording and executing keystrokes, designed to streamline repetitive tasks and speed up workflows.
 
+![python-automate-computer-keystrokes_Page 2](https://github.com/user-attachments/assets/5ec03726-0836-4172-a81f-2f133390296c)
+
+
 ![python-automate-computer-keystrokes - Made with Clipchamp (1)](https://github.com/user-attachments/assets/39e26a46-97ab-4aeb-9c2d-0dc3af4499ce)
 
 
