@@ -1,0 +1,378 @@
+[
+  {
+    "type": "press",
+    "key": "Key.alt_l"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.alt_l"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.tab"
+  },
+  {
+    "type": "release",
+    "key": "Key.tab"
+  },
+  {
+    "type": "press",
+    "key": "Key.enter"
+  },
+  {
+    "type": "release",
+    "key": "Key.enter"
+  },
+  {
+    "type": "press",
+    "key": "Key.shift"
+  },
+  {
+    "type": "press",
+    "key": "'H'"
+  },
+  {
+    "type": "release",
+    "key": "Key.shift"
+  },
+  {
+    "type": "release",
+    "key": "'h'"
+  },
+  {
+    "type": "press",
+    "key": "'e'"
+  },
+  {
+    "type": "release",
+    "key": "'e'"
+  },
+  {
+    "type": "press",
+    "key": "'l'"
+  },
+  {
+    "type": "release",
+    "key": "'l'"
+  },
+  {
+    "type": "press",
+    "key": "'l'"
+  },
+  {
+    "type": "release",
+    "key": "'l'"
+  },
+  {
+    "type": "press",
+    "key": "'o'"
+  },
+  {
+    "type": "release",
+    "key": "'o'"
+  },
+  {
+    "type": "press",
+    "key": "Key.space"
+  },
+  {
+    "type": "release",
+    "key": "Key.space"
+  },
+  {
+    "type": "press",
+    "key": "Key.shift"
+  },
+  {
+    "type": "press",
+    "key": "'W'"
+  },
+  {
+    "type": "release",
+    "key": "Key.shift"
+  },
+  {
+    "type": "release",
+    "key": "'w'"
+  },
+  {
+    "type": "press",
+    "key": "'o'"
+  },
+  {
+    "type": "release",
+    "key": "'o'"
+  },
+  {
+    "type": "press",
+    "key": "'r'"
+  },
+  {
+    "type": "release",
+    "key": "'r'"
+  },
+  {
+    "type": "press",
+    "key": "'l'"
+  },
+  {
+    "type": "release",
+    "key": "'l'"
+  },
+  {
+    "type": "press",
+    "key": "'d'"
+  },
+  {
+    "type": "release",
+    "key": "'d'"
+  },
+  {
+    "type": "press",
+    "key": "Key.shift"
+  },
+  {
+    "type": "press",
+    "key": "'!'"
+  },
+  {
+    "type": "release",
+    "key": "'!'"
+  },
+  {
+    "type": "release",
+    "key": "Key.shift"
+  }
+]
